@@ -1,7 +1,7 @@
 ## Cuộc chiến vũ trụ 
 # Cài đặt 
   - Tải mingw trên https://www.mingw-w64.org/
-  - mở cmd và gõ git clone https://github.com/pmquy/space-invaders
+  - mở cmd và gõ git clone https://github.com/datmotphit/baitaplon
   - gõ main.exe
 # Cách chơi
   - Dùng mũi tên để di chuyển
